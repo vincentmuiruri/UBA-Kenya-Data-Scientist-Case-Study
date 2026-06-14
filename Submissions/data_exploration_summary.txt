@@ -1,0 +1,7 @@
+UBA KENYA DATA EXPLORATION SUMMARY
+==================================================
+
+Dataset shape: (17981, 31)
+Date range: 2025-01-01 00:00:00 to 2025-12-27 00:00:00
+Unique customers: 3220
+Columns with missing data: 4
